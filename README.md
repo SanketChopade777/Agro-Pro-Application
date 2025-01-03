@@ -27,7 +27,7 @@
 ## Links to Access AgroPro
 
 - **Download the AgroPro App**:  
-  [AgroPro APK](https://apkpure.com/agro-pro/com.example.agro_pro) 📲
+  [AgroPro APK](https://apkpure.com/agropro/com.example.agro_pro) 📲
 
 - **Visit the AgroPro Website**:  
   [AgroPro Website](https://teamindra-agro-pro.netlify.app/) 🌐
