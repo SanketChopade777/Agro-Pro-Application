@@ -21,7 +21,12 @@
 
 6. **Data-Driven Insights**:  
    - Make informed decisions based on actionable insights, improving crop yields and adopting sustainable farming practices. 📊🌾
-
+     
+7. **TrackMate**:
+   - Enables real-time location tracking for monitoring assets, vehicles, or personnel, ensuring safety and efficiency. 📍🗺️
+     
+8. **Multilingual Support**:
+   - Using Google Translator API, AgroPro is accessible to a diverse audience. 🌐💬
 ---
 
 ## Links to Access AgroPro
