@@ -43,3 +43,8 @@
 ---
 
 With **AgroPro**, farming becomes smarter, more efficient, and more sustainable. Empower your agricultural practices with the power of technology today! 🌱🚀
+
+## 👨‍💻 Author
+
+**Sanket Nivas Chopade**  
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/sanket-chopade-888546257/) or check out other projects on [GitHub](https://github.com/SanketChopade777)
