@@ -27,6 +27,14 @@
      
 8. **Multilingual Support**:
    - Using Google Translator API, AgroPro is accessible to a diverse audience. 🌐💬
+     
+9. **WeatherWise**: Delivers accurate weather forecasts and real-time updates, empowering farmers to plan effectively and mitigate risks. ☀️🌧️  
+  
+10. **Government Schemes & Application Guide**: A dedicated section providing complete information on government agricultural schemes, eligibility criteria, benefits, and step-by-step application guidance. 🏛️📜
+    
+11. **Crop Cultivation Calculator:** Helps farmers estimate the number of crops they can cultivate based on their land area, improving resource allocation. 📏🌾
+
+12. **Plant Information System:** Offers detailed insights about different plants including climate, soil type, water needs, pests, harvesting methods, and best farming practices. 🌿📘
 ---
 
 ## Links to Access AgroPro
