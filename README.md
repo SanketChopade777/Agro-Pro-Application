@@ -48,6 +48,9 @@
 - **Watch the Tutorial Video**:  
   [How to Use AgroPro - Video Tutorial](https://www.youtube.com/watch?v=MxAH505KqQE&t=22s) 🎥
 
+- **View the User Manual**:  
+  [User Manual](https://drive.google.com/file/d/19YBkVVKo-BtICNP_DzPVzWSYZByrt0RZ/view?usp=drive_link) 📃
+
 ---
 
 With **AgroPro**, farming becomes smarter, more efficient, and more sustainable. Empower your agricultural practices with the power of technology today! 🌱🚀
